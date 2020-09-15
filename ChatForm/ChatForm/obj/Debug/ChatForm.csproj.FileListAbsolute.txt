@@ -1,0 +1,37 @@
+E:\ChatForm\ChatForm\bin\Debug\ChatForm.exe.config
+E:\ChatForm\ChatForm\bin\Debug\ChatForm.exe
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.csprojAssemblyReference.cache
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.AntWork.resources
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.exe
+E:\ChatForm\ChatForm\obj\Debug\ChatForm.pdb
+E:\ChatForm\ChatForm\bin\Debug\ChatForm.pdb
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\bin\Debug\ChatForm.exe.config
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\bin\Debug\ChatForm.exe
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\bin\Debug\ChatForm.pdb
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.csprojAssemblyReference.cache
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.AntWork.resources
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.csproj.CoreCompileInputs.cache
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.exe
+C:\Users\vkolodynsky\Даша\Курсач\ChatForm\ChatForm\obj\Debug\ChatForm.pdb
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\bin\Debug\ChatForm.exe.config
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\bin\Debug\ChatForm.exe
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\bin\Debug\ChatForm.pdb
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.csprojAssemblyReference.cache
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.AntWork.resources
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.exe
+D:\3 курс\вгтк\трпо\уп\ChatForm\ChatForm\obj\Debug\ChatForm.pdb
+E:\даша\ChatForm\ChatForm\bin\Debug\ChatForm.exe.config
+E:\даша\ChatForm\ChatForm\bin\Debug\ChatForm.exe
+E:\даша\ChatForm\ChatForm\bin\Debug\ChatForm.pdb
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.csprojAssemblyReference.cache
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.AntWork.resources
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.Properties.Resources.resources
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.csproj.GenerateResource.cache
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.exe
+E:\даша\ChatForm\ChatForm\obj\Debug\ChatForm.pdb

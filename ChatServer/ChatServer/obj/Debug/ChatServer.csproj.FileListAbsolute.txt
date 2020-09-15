@@ -1,0 +1,26 @@
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\3 курс\вгтк\трпо\уп\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+G:\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+G:\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+G:\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+G:\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+G:\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+G:\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+G:\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+E:\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\vkolodynsky\Даша\Курсач\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
